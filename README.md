@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/general-data-protection-regulation-practitioner-gdpr-p-video/9781838644031)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # General-Data-Protection-Regulation-Practitioner-GDPR-P-
 Code Repository for General Data Protection Regulation Practitioner (GDPR P), Published by Packt
 # General Data Protection Regulation Practitioner GDPR P
